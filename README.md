@@ -15,6 +15,14 @@
 
 [CSE328_TermProjectReport_20200808070.pdf](https://github.com/busecoban/IoT_TermProject/files/15501398/CSE328_TermProjectReport_20200808070.pdf)
 
+https://webappdeployment1.azurewebsites.net/
+
+
+
+https://github.com/busecoban/IoT_TermProject/assets/73944611/be9fd13d-2c5a-4001-8d1c-4e5fe97e3605
+
+
+
 
 # Project Proposal
 
